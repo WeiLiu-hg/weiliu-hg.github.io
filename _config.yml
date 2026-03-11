@@ -2,9 +2,9 @@
 highlighter:      rouge
 
 # Setup
-title:            Wei Liu
+title:            Intelligent Cooperative and Nonlinear Control Laboratory
 tagline:          'Research and Stuff'
-description:      'I am an Professor at South China University of Technology University, China.'
+description:      'Intelligent Cooperative and Nonlinear Control Laboratory, South China University of Technology, Guangzhou, China.'
 url:              http://weiliu-hg.github.io
 baseurl:          ''
 cover_image: /public/zion.jpg
