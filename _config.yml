@@ -2,16 +2,16 @@
 highlighter:      rouge
 
 # Setup
-title:            Yilin Mo
+title:            Wei Liu
 tagline:          'Research and Stuff'
-description:      'I am an Associate Professor at Tsinghua University, China.'
-url:              http://yilinmo.github.io
+description:      'I am an Professor at South China University of Technology University, China.'
+url:              http://weiliu-hg.github.io
 baseurl:          ''
 cover_image: /public/zion.jpg
 
 author:
-name:           'Yilin Mo'
-email:            ylmo@tsinghua.edu.cn
+name:           'Wei Liu'
+email:            weiliu@scut.edu.cn
 
 paginate:         5
 paginate_path:    "/notes/page:num"
@@ -34,7 +34,7 @@ pages_list:
 # To select font, go to: http://www.youziku.com/Home/FontSelect
 # or you can remove the title_cn attribute
 
-#title_cn: (莫一林)
+#title_cn: (刘伟)
 cn_font_family: minijianxixingkai351678
 cn_css: http://www.youziku.com/webfont/CSS/15f8f8252e25142e32cc295517e8a5f0
 
