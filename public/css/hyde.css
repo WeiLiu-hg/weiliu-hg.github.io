@@ -264,7 +264,3 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
-
-.sidebar-about h1 {
-    font-size: 24px;  /* 调小字体 */
-}
