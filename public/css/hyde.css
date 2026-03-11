@@ -265,4 +265,12 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-
+/* 修改首页大标题字体大小 */
+h1.site-title, /* 如果你的主页标题有这个 class */
+header h1,    /* 备用选择器，如果 title 在 header 内 */
+.homepage h1  /* 备用选择器，如果 body 有 homepage class */
+{
+    font-size: 32px !important;  /* 将 32px 改成你想要的大小 */
+    font-weight: bold;            /* 可选，加粗标题 */
+    line-height: 1.2;             /* 可选，调整行高 */
+}
