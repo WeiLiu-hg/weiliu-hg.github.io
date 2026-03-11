@@ -11,7 +11,7 @@ cover_image: /public/zion.jpg
 
 author:
 name:           'Intelligent Cooperative and Nonlinear Control Laboratory'
-email:            weiliu@scut.edu.cn
+email:            XXX
 
 paginate:         5
 paginate_path:    "/notes/page:num"
@@ -34,7 +34,7 @@ pages_list:
 # To select font, go to: http://www.youziku.com/Home/FontSelect
 # or you can remove the title_cn attribute
 
-#title_cn: (刘伟)
+#title_cn: (XX)
 cn_font_family: minijianxixingkai351678
 cn_css: http://www.youziku.com/webfont/CSS/15f8f8252e25142e32cc295517e8a5f0
 
