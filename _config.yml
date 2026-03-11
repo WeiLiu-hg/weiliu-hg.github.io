@@ -10,7 +10,7 @@ baseurl:          ''
 cover_image: /public/zion.jpg
 
 author:
-name:           'Wei Liu'
+name:           'Intelligent Cooperative and Nonlinear Control Laboratory'
 email:            weiliu@scut.edu.cn
 
 paginate:         5
