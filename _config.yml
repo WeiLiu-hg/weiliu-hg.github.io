@@ -19,14 +19,14 @@ paginate_path:    "/notes/page:num"
 # List of Pages
 
 pages_list:
+  - name: members
+    loc: /notes
   - name: Research
     loc: /research.html
   - name: Teaching
     loc: /teaching.html
   - name: Publication
     loc: /publication.html
-  - name: Notes
-    loc: /notes
 
 # Chinese Support
 # Must change the cn_font_family and cn_css
