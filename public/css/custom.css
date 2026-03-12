@@ -35,7 +35,7 @@ h2 {
 }
 /* 侧边栏顶部大标题 */
 .sidebar-about h1 {
-    font-size: 2rem;      /* 改成你想要的大小，比如 2.5rem 更大 */
+    font-size: 1.8rem;      /* 改成你想要的大小，比如 2.5rem 更大 */
     font-weight: bold;     /* 保持加粗 */
     line-height: 1.2;     /* 可选，调整行高 */
 }
