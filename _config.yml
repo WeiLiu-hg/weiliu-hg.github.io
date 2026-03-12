@@ -19,7 +19,7 @@ paginate_path:    "/notes/page:num"
 # List of Pages
 
 pages_list:
-  - name: members
+  - name: Members
     loc: /members.html
   - name: Research
     loc: /research.html
