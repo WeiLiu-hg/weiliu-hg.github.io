@@ -26,3 +26,8 @@
 .sidebar-about .lead {
     font-size: 1rem;
 }
+/* 修改正文 h2 标题大小 */
+h2 {
+    font-size: 1.5rem;    /* 可以改成你想要的大小 */
+    font-weight: bold;
+}
